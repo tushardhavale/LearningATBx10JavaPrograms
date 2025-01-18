@@ -1,6 +1,6 @@
 package _Java_Basics_01;
 
-public class Lab006_Variables
+public class Lab007_Variables
 {
     public static void main(String[] args)
     {

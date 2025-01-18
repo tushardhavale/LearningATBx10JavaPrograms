@@ -1,6 +1,6 @@
 package _Java_Basics_01;
 
-public class Lab005_Println_vs_Print
+public class Lab006_Println_vs_Print
 {
     public static void main(String[] args) {
 
