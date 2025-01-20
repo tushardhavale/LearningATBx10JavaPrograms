@@ -8,6 +8,6 @@ public class Lab011_LargestNumber
         int b=52;
         int c=20;
         int LargestNumber= (a>=b) ? ((a>=c) ? a : c) : ((b>=c) ? b:c);
-        System.out.println(LargestNumber);
+        System.out.println("The largest number is: " + LargestNumber);
 }
 }
