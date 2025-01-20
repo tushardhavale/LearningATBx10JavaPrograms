@@ -1,11 +1,11 @@
 package _Java_Basics_01;
 
-public class Lab010_InteviewQA
+public class Lab010_InterviewQA
 {
     public static void main(String[] args)
     {
-        int emum=20;
+        int Enum=20;
         //enum is a keyword
-        System.out.println(enum);
+        System.out.println(Enum);
     }
 }
